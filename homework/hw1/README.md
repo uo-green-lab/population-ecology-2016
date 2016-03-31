@@ -35,19 +35,20 @@ objects in R are more complex. Here we describe some of these other objects:
 *vectors*, *matrices*, *data frames*, *lists*, and *functions*. R operates (does stuff) to objects.
 
 #### 2a. Vectors
-So many operations in R are performed on vectors. A vector may be a sequence of scalars, for instance (e.g., 1, 2, 3, 4). Let's create a vector called `Y`. In R, we do this with `c()`.
+So many operations in R are performed on vectors. A vector may be a sequence of scalars, for instance (e.g., 1, 2, 3, 4). Let's create a vector called `X`. In R, we do this with `c()`.
 
 ```r
-Y <- c(1, 2, 3, 4)
+X <- c(1, 2, 3, 4)
 ```
 
 Like many programming languages, there's more than one way to do anything.
 
 ```r
 Y <- 1:4
-Y <- seq(from = 1, to = 4, by = 1)
+Z <- seq(from = 1, to = 4, by = 1)
 ```
-Which one (if any) of the above code snippets are different?
+Which one (if any) of `X`, `Y`, or `Z` are different? *Hint:* try running `X == Y`. Note here that `=` is often used to assign values to arguments, whereas the `==` operator is used when asking if two objects are equal.
+
 
 
 

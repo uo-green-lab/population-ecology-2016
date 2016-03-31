@@ -53,3 +53,42 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |8      |5/20      |Applications       |Human, indoor and food web ecology         |          |     |
 |9      |5/27      |Team Teaching       |         |          |Submit peer evaluations     |
 |10      |6/3      |Team Teaching       |         |          |Submit peer evaluations     |
+
+### Appendix
+Team Teaching.  Your team teaching project will comprise five steps as described below.
+ 
+**1)** Choose a topic area
+Projects can focus on any current topic relevant to population ecology.  Example topic areas include:
+ 
+#### Pandemics
+- http://www.gvfi.org/
+- http://www.gatesfoundation.org
+- http://www.ted.com/talks/lang/eng/larry_brilliant_wants_to_stop_pandemics.html
+
+#### Invasive species
+- http://www.wired.com/wiredscience/2009/02/homogecene/
+- http://topics.nytimes.com/top/news/science/topics/invasive_species/index.html
+ 
+#### Any species you are interested in with global relevance
+- Fish? http://www.ted.com/talks/tierney_thys_swims_with_the_giant_sunfish.html
+- Chimpanzee? http://www.ted.com/talks/lang/eng/jane_goodall_at_tedglobal_07.html
+- Bird? http://www.ted.com/talks/juliana_machado_ferreira.html
+- Mushroom? http://www.nytimes.com/2010/09/07/health/research/07brfs-MAGICMUSHROO_BRF.html
+ 
+**2)** Choose class readings/videos
+Readings/videos must be chosen very carefully with the following goals:  1) concise, 2) published in a reputable venue within the past 24 months, 4) relevant to the main points you want to convey in class.  At least one reading must be assigned, and no more than 2 readings/videos total may be assigned.
+ 
+**3)** Make a class discussion outline
+Your outline should be no more than 2 pages include the following information:
+ 
+- What are the 3 main messages you want the class to know?
+- How will you convey these messages during the first ~15 minutes of class?
+- What activities do you have planned for the next ~15 minutes of class to convey these messages?
+- How do you intend to wrap up and review the take home messages?
+ 
+Creativity in how classes are run is welcome.  Students may choose to present information using the chalkboard, video, in-class interviews, games, comics, or any other compelling means.  All materials must be student created.  Video cameras will be available to check out from Professor Green.
+ 
+**4)** Lead class discussion!
+ 
+####Grading
+*25%* Readings and/or video; *25%* Class discussion outline; *50%* Class discussion.
