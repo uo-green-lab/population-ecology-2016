@@ -21,7 +21,7 @@ Hastings, A.  *Population Biology: concepts and models.*  1997.  Springer-Verlag
 Additional required readings will be available [here.](./additional-readings/)
  
 ####Homework
-Approximately 8 assignments will be due in this course (problem sets and team teaching materials).  Assignments will be due about one week after the relevant course material has been covered. Assignments are due Thursday (midnight) the day before class.  Students are strongly encouraged to collaborate on assignments outside of class. Homeworks will be posted [here.](./homework/)
+Approximately 8 assignments will be due in this course (problem sets and team teaching materials).  Assignments will be due about one week after the relevant course material has been covered. Assignments are due Thursday (midnight) the day before class.  Late homework will not be accepted.  Students are strongly encouraged to collaborate on assignments outside of class. Homeworks will be posted [here.](./homework/) Homework will be graded on a three tier system:  complete, partial, incomplete.  Homework solutions will be reviewed in class.  
  
 ####Exams
 There will be two exams (Week 3 and Week 7) to be completed in class.
