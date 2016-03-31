@@ -8,7 +8,7 @@
 - **Lecture room.**  8 Pacific Hall (Huestis 130 from 1-2:50pm)
 - **Office hours.** Thursdays 10:30am – 12:30pm
 - **Office hours room.**  301 Pacific
-- **Course website:**  http://canvas.uoregon.edu
+- **Course website:**  https://github.com/uo-green-lab/population-ecology-2016
  
 ####Course Philosophy and Goals
 This course should provide a novel, and hopefully fun, way of learning about population ecology. We will learn about population ecology through a combination of reading, problem solving, computational exercises, writing and discussion.  My goal is that by the end of the course, all students will be able to 1) use relatively simple mathematical methods (often “back of the envelope” variety) to understand ecological systems, and 2) digest and articulate the salient points on current topics relevant to population ecology.  Equipped with these skills, students will be adept at making informed decisions relevant to science-driven policy and innovation. Our approach throughout the course will be to teach, rather than lecture.  Thus, students will be expected to participate in the learning process during class sessions, to develop code and reproducible analyses, and to team-teach one lecture. Adjustments will be made to the following outline based on the needs of the class as we progress.
