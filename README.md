@@ -14,23 +14,23 @@
 This course should provide a novel, and hopefully fun, way of learning about population ecology. We will learn about population ecology through a combination of reading, problem solving, computational exercises, writing and discussion.  My goal is that by the end of the course, all students will be able to 1) use relatively simple mathematical methods (often “back of the envelope” variety) to understand ecological systems, and 2) digest and articulate the salient points on current topics relevant to population ecology.  Equipped with these skills, students will be adept at making informed decisions relevant to science-driven policy and innovation. Our approach throughout the course will be to teach, rather than lecture.  Thus, students will be expected to participate in the learning process during class sessions, to develop code and reproducible analyses, and to team-teach one lecture. Adjustments will be made to the following outline based on the needs of the class as we progress.
  
 ####Readings
-There is no comprehensive textbook that covers the breadth of topics we will explore. We will draw upon the textbook below during the first half of the term and it is available for purchase at Amazon.com.
+There is no comprehensive textbook that covers the breadth of topics we will explore. We will draw upon the textbook below during the first half of the term and it is [available for purchase at Amazon.com.](http://www.amazon.com/Population-Biology-Concepts-Alan-Hastings/dp/0387948538/ref=sr_1_1?ie=UTF8&qid=1459462152&sr=8-1&keywords=hastings+population+ecology)
  
 Hastings, A.  *Population Biology: concepts and models.*  1997.  Springer-Verlag, New York.
  
-Additional required readings will be available for download at http://canvas.uoregon.edu.
+Additional required readings will be available [here.](./additional-readings/)
  
 ####Homework
-Approximately 8 assignments will be due in this course (problem sets and team teaching materials).  Assignments will be due about one week after the relevant course material has been covered. Assignments are due Thursday (midnight) the day before class.  Students are strongly encouraged to collaborate on assignments outside of class.  
+Approximately 8 assignments will be due in this course (problem sets and team teaching materials).  Assignments will be due about one week after the relevant course material has been covered. Assignments are due Thursday (midnight) the day before class.  Students are strongly encouraged to collaborate on assignments outside of class. Homeworks will be posted [here.](./homework/)
  
 ####Exams
 There will be two exams (Week 3 and Week 7) to be completed in class.
  
 ####Team Teaching
-All students will be required to team-teach one topic.  Team teaching includes choosing relevant class reading or media on the topic & leading a class discussion.  Approximately five weeks prior to the day your team is scheduled to lead a topic you will submit a proposal for: 1) the topic, 2) reading and/or media, and 3) a discussion outline.  Details on team teaching are posted on the course blackboard site.
+All students will be required to team-teach one topic.  Team teaching includes choosing relevant class reading or media on the topic & leading a class discussion.  Approximately five weeks prior to the day your team is scheduled to lead a topic you will submit a proposal for: 1) the topic, 2) reading and/or media, and 3) a discussion outline.  Details on team teaching will be posted in this repository.
   
 ####Grade Determination
-Your final grade will be based on ¼ homework (problem sets), ¼ team teaching (proposal & class delivery), ¼ Week 3 exam, ¼ Week 7 exam.
+Your final grade will be based on *1/4* homework (problem sets), *1/4* team teaching (proposal & class delivery), *1/4* Week 3 exam, *1/4* Week 7 exam.
  
 ####Cell Phones
 All portable electronic devices (e.g. cell phones) must be turned off and put away during class.
