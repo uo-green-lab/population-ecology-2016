@@ -1,4 +1,4 @@
 # Population Ecology
 ## Spring 2016
 
-Homework is found in this 
+Homework can be found in this directory!

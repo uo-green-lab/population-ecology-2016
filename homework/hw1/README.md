@@ -6,7 +6,7 @@ In general in R, we perform an action, and take the results of that action and
 assign the results to a new object, thereby creating a new object. Here I add
 two numbers and assign the result to an new object I call *a*.
 
-```
+```r
 a <- 2 + 3
 a
 ```
@@ -16,6 +16,12 @@ you can type the name of the object.
 
 You can then use the new object to perform another action, and assign:
 
-```
+```r
 b <- a + a
+```
+
+You can also perform multiple actions on the same line by using a semicolon
+
+```r
+a + a; a + b
 ```
