@@ -31,3 +31,16 @@ Additional required readings will be available for download at http://canvas.uor
 **Academic Conduct.** Academic integrity is the foundation of an academic community and without it none of the educational or research goals of the university can be achieved.  All members of the university community are responsible for its academic integrity. Existing policies forbid cheating on examinations, plagiarism and other forms of academic dishonesty.  Please refamiliarize yourself with the definitions of cheating and plagarism (see the “about cheating” sections at http://studentlife.uoregon.edu/programs/student_judi_affairs).  If you have doubts or questions about acceptable conduct in any situation, I encourage you to discuss the situation with me in advance.  University rules on academic integrity will be strictly enforced.
 
 Below is a tentative schedule for this course.  It will be updated as the course progresses.
+
+| Week | Date | Title | Content | Readings | Due |
+|------|------|-------|---------|----------|-----|
+|1      |4/1      |Introduction<br>Single species dynamics       |Course overview<br>Class photos<br>Density-independent growth         |Hastings<br>1<br>2.1          |     |
+|2      |4/8      |Single species dynamics       |Density-dependent growth<br>Discrete-time density-dependent models         |Hastings 4.1<br>4.2<br>4.4          |HW 1     |
+|3      |4/15      |Single species dynamics exam       |Exam<br>Solutions<br>Team teaching prep         |          |HW 2     |
+|      |      |       |         |          |     |
+|      |      |       |         |          |     |
+|      |      |       |         |          |     |
+|      |      |       |         |          |     |
+|      |      |       |         |          |     |
+|      |      |       |         |          |     |
+|      |      |       |         |          |     |
