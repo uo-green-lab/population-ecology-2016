@@ -90,5 +90,12 @@ Creativity in how classes are run is welcome.  Students may choose to present in
  
 **4)** Lead class discussion!
  
-####Grading
+#### Grading
 *25%* Readings and/or video; *25%* Class discussion outline; *50%* Class discussion.
+
+#### Downloads
+- **MacTeX:** https://tug.org/mactex/
+- **LaTeX:** https://latex-project.org/ftp.html
+- **Mou:** http://25.io/mou/
+- Github Desktop: https://desktop.github.com/
+
