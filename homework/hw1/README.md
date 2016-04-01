@@ -111,7 +111,7 @@ bogus.mean <- function(x, cheat) {
 	sum.of.x <- sum(x)
 	n <- length(x)
 	true.mean <- sum.of.x / n
-	(1 + cheat) * trueMean
+	(1 + cheat) * true.mean
 }
 ```
 
@@ -170,7 +170,7 @@ The following is equivalent, but slightly less readable or transparent.
 
 ```r
 clunky.exp.growth <- function(t, y, p) {
-  dN.dt <- p[1] * y[1] * (1 - p[2] * y[1])
+  dN.dt <- p[1] * y[1]
   return(list(dN.dt))
 }
 ```
