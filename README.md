@@ -50,8 +50,8 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |5      |4/29      |Predator-prey interactions       |Lotka-Volterra models<br>Density dependence         |Hastings<br>8.1-8.4          |HW 4     |
 |6      |5/6      |Predator-prey interactions       |Functional response<br>Paradox of enrichment<br>Zombie outbreaks         |Hastings<br>8.5<br>8.6          |HW 5     |
 |7      |5/13      |Multi-species interactions exam       |Exam<br>Solutions         |          |HW 6     |
-|8      |5/20      |Applications       |Human ecology<br>Network ecology<br>Urban ecology<br>Team teaching prep         |          |     |
-|9      |5/27      |Wiki-a-thon       |         |          |Submit wiki drafts     |
+|8      |5/20      |Applications       |Human ecology<br>Network ecology<br>Urban ecology<br>Team teaching prep         |          |Wiki drafts     |
+|9      |5/27      |Wiki-a-thon       |         |          |Mandatory     |
 |10      |6/3      |Team Teaching       |         |          |Mandatory     |
 
 ### Appendix
