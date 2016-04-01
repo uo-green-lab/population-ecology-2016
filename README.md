@@ -26,11 +26,11 @@ Approximately 8 assignments will be due in this course (problem sets and team te
 ####Exams
 There will be two exams (Week 3 and Week 7) to be completed in class.
  
-####Team Teaching
-All students will be required to team-teach one topic.  Team teaching includes choosing relevant class reading or media on the topic & leading a class discussion.  Approximately five weeks prior to the day your team is scheduled to lead a topic you will submit a proposal for: 1) the topic, 2) reading and/or media, and 3) a discussion outline.  Details on team teaching will be posted in this repository.
+####Wiki-a-thon & team teaching
+All students will be required to participate in a wiki-a-thon and to team-teach one topic.  The wiki-a-thon will include creating new wiki entries, sprucing up old ones, with a focus on population ecology.  Team teaching will center on wiki-topics.  It will include choosing relevant class reading or media on the topic & leading a class discussion.  Approximately five weeks prior to the day your team is scheduled to lead a topic you will submit a proposal for: 1) the topic, 2) reading and/or media, and 3) a strategic planning outline.  Details on the wiki-a-thon and team teaching will be posted on the github site.
   
 ####Grade Determination
-Your final grade will be based on *1/4* homework (problem sets), *1/4* team teaching (proposal & class delivery), *1/4* Week 3 exam, *1/4* Week 7 exam.
+Your final grade will be based on *1/4* homework (problem sets), *1/4* wiki-a-thon and team teaching (proposal & execution), *1/4* Week 3 exam, *1/4* Week 7 exam.
  
 ####Cell Phones
 All portable electronic devices (e.g. cell phones) must be turned off and put away during class.
@@ -46,13 +46,13 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |1      |4/1      |Introduction<br>Single species dynamics       |Course overview<br>Class photos<br>Density-independent growth         |Hastings<br>1<br>2.1          |     |
 |2      |4/8      |Single species dynamics       |Density-dependent growth<br>         |Hastings 4.1-4.4          |HW 1     |
 |3      |4/15      |Single species dynamics exam       |Exam<br>Solutions<br>Team teaching prep         |          |HW 2     |
-|4      |4/22      |Competition       |Stability and the community matrix<br>Lotka-Volterra models         |Hastings<br>6<br>7.1          |HW 3<br>(team teaching proposals)     |
+|4      |4/22      |Competition       |Stability and the community matrix<br>Lotka-Volterra models         |Hastings<br>6<br>7.1          |HW 3<br>(team wiki/teaching proposals)     |
 |5      |4/29      |Predator-prey interactions       |Lotka-Volterra models<br>Density dependence         |Hastings<br>8.1-8.4          |HW 4     |
-|6      |5/6      |Predator-prey interactions       |Functional response<br>Paradoc of enrichment<br>Zombie outbreaks         |Hastings<br>8.5<br>8.6          |HW 5     |
+|6      |5/6      |Predator-prey interactions       |Functional response<br>Paradox of enrichment<br>Zombie outbreaks         |Hastings<br>8.5<br>8.6          |HW 5     |
 |7      |5/13      |Multi-species interactions exam       |Exam<br>Solutions         |          |HW 6     |
-|8      |5/20      |Applications       |Human, indoor and food web ecology         |          |     |
-|9      |5/27      |Team Teaching       |         |          |Submit peer evaluations     |
-|10      |6/3      |Team Teaching       |         |          |Submit peer evaluations     |
+|8      |5/20      |Applications       |Human ecology<br>Network ecology<br>Urban ecology<br>Team teaching prep         |          |     |
+|9      |5/27      |Wiki-a-thon       |         |          |Submit wiki drafts     |
+|10      |6/3      |Team Teaching       |         |          |Mandatory     |
 
 ### Appendix
 Team Teaching.  Your team teaching project will comprise four steps as described below.
