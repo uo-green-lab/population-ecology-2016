@@ -45,9 +45,10 @@ You can then use the new object to perform another action, and assign:
 b <- a + a
 ```
 
-You can also perform multiple actions on the same line by using a semicolon. I generally discourage this approach, as it makes debugging and reading code tougher.
+You can also perform multiple actions on the same line by using a semicolon. I generally discourage this approach, as it makes debugging and reading code tougher. We also use `#` to annotate our code.
 
 ```r
+# this is a bad idea...
 a + a; a + b
 ```
 
@@ -90,7 +91,7 @@ This will open the help page (again), showing us the *arguments*. The first argu
 is `trim = 0`. If we read about this argument, we find that it will “trim” a specified
 fraction of the most extreme observations of x. The fact that the argument trim
 is already set equal to zero means that is the default. If you do not use trim,
-then the function will use trim=0. Thus, these two are equivalent.
+then the function will use trim = 0. Thus, these two are equivalent.
 
 ```r
 mean(1:4)
@@ -209,6 +210,7 @@ sim.frame$abundance
 And we can use R's base graphics system to make quick and easy plots. I also recommend looking up `?points` for a particular homework problem...
 
 ```r
-plot(abundance ~ t, data = sim.frame, type = 'l', lwd = 3, bty = 'l')
+plot(abundance ~ t, data = sim.frame, type = 'l', lwd = 3, col = 'purple', bty = 'l')
 ```
 
+In RStudio, we can save this plot as a PDF or PNG by clicking `Export` above the graphics pane.
