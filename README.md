@@ -97,5 +97,7 @@ Creativity in how classes are run is welcome.  Students may choose to present in
 - **MacTeX:** https://tug.org/mactex/
 - **LaTeX:** https://latex-project.org/ftp.html
 - **Mou:** http://25.io/mou/
-- Github Desktop: https://desktop.github.com/
+- **Github Desktop:** https://desktop.github.com/
+- **R:** https://cran.r-project.org/bin/windows/base/
+- **RStudio:** https://www.rstudio.com/products/rstudio/download/
 
