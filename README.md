@@ -44,7 +44,7 @@ Below is a tentative schedule for this course.  It will be updated as the course
 | Week | Date | Title | Content | Readings | Due |
 |------|------|-------|---------|----------|-----|
 |1      |4/1      |Introduction<br>Single species dynamics       |Course overview<br>Class photos<br>Density-independent growth         |Hastings<br>1<br>2.1          |     |
-|2      |4/8      |Single species dynamics       |Density-dependent growth<br>Discrete-time density-dependent models         |Hastings 4.1<br>4.2<br>4.4          |HW 1     |
+|2      |4/8      |Single species dynamics       |Density-dependent growth<br>         |Hastings 4.1-4.4          |HW 1     |
 |3      |4/15      |Single species dynamics exam       |Exam<br>Solutions<br>Team teaching prep         |          |HW 2     |
 |4      |4/22      |Competition       |Stability and the community matrix<br>Lotka-Volterra models         |Hastings<br>6<br>7.1          |HW 3<br>(team teaching proposals)     |
 |5      |4/29      |Predator-prey interactions       |Lotka-Volterra models<br>Density dependence         |Hastings<br>8.1-8.4          |HW 4     |
@@ -55,7 +55,7 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |10      |6/3      |Team Teaching       |         |          |Submit peer evaluations     |
 
 ### Appendix
-Team Teaching.  Your team teaching project will comprise five steps as described below.
+Team Teaching.  Your team teaching project will comprise four steps as described below.
  
 **1)** Choose a topic area
 Projects can focus on any current topic relevant to population ecology.  Example topic areas include:
@@ -92,3 +92,5 @@ Creativity in how classes are run is welcome.  Students may choose to present in
  
 ####Grading
 *25%* Readings and/or video; *25%* Class discussion outline; *50%* Class discussion.
+
+# End
