@@ -19,7 +19,7 @@ Due 4/7/2016
 
 	**Using R:**
 
-6.  For five consecutive days, you measure the size of a growing population of nematodes as 100, 158, 315, 398, and 794 individuals.  Plot the logarithm (base e) of population size vs.  time to estimate r. Show and annotate your code; embed your figure. Hint: `?lm` might be helpful.
+6.  For five consecutive days, you measure the size of a growing population of nematodes as 100, 158, 315, 398, and 794 individuals.  Plot the logarithm (base e) of population size vs.  time to estimate *r*. Show and annotate your code; embed your figure. Hint: `?lm` might be helpful.
 
-7.  Simulate a population growing exponentially in continuous time for *r* = 0.25 and *N0* = 1. Store the results of this simulation in a data frame. Repeat this for two additional values of *r*, of your choosing. Visualize the results of all three simulations on a single plot, coloring each line a different color. Add a legend so it’s clear which runs correspond to which values of r. Show and annotate your code; embed your figure. Hint: check `?points` and `?legend`.
+7.  Simulate a population growing exponentially in continuous time for 100 time steps; *r* = 0.25 and *N0* = 1. Store the results of this simulation in a data frame. Repeat this for two additional values of *r*, of your choosing. Visualize the results of all three simulations on a single plot, coloring each line a different color. Add a legend so it’s clear which runs correspond to which values of *r*. Show and annotate your code; embed your figure. Hint: check `?points` and `?legend`.
 
