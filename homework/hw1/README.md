@@ -198,12 +198,12 @@ Now let's looks at the output.
 head(sim)
 class(sim)
 sim.frame <- as.data.frame(sim)
-names(sim.frame)
-names(sim.frame) <- c('t', 'abundance')
 ```
 Now that it's a data frame we can do all sorts of easy manipulation.
 
 ```r
+names(sim.frame)
+names(sim.frame) <- c('t', 'abundance')
 sim.frame$t
 sim.frame$abundance
 ```
