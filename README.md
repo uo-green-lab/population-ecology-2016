@@ -92,5 +92,3 @@ Creativity in how classes are run is welcome.  Students may choose to present in
  
 ####Grading
 *25%* Readings and/or video; *25%* Class discussion outline; *50%* Class discussion.
-
-# End
