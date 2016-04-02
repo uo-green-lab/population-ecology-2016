@@ -24,7 +24,7 @@ Additional required readings will be available [here.](./additional-readings/)
 Approximately 8 assignments will be due in this course (problem sets and team teaching materials).  Assignments will be due about one week after the relevant course material has been covered. Assignments are due Thursday (midnight) the day before class.  Late homework will not be accepted.  Students are strongly encouraged to collaborate on assignments outside of class. Homeworks will be posted [here.](./homework/) Homework will be graded on a three tier system:  complete, partial, incomplete.  Homework solutions will be reviewed in class.  
  
 ####Exams
-There will be two exams (Week 3 and Week 7) to be completed in class.
+There will be two exams (Week 4 and Week 8) to be completed in class.
  
 ####Wiki-a-thon & team teaching
 All students will be required to participate in a wiki-a-thon and to team-teach one topic.  The wiki-a-thon will include creating new wiki entries, sprucing up old ones, with a focus on population ecology.  Team teaching will center on wiki-topics.  It will include choosing relevant class reading or media on the topic & leading a class discussion.  Approximately five weeks prior to the day your team is scheduled to lead a topic you will submit a proposal for: 1) the topic, 2) reading and/or media, and 3) a strategic planning outline.  Details on the wiki-a-thon and team teaching will be posted on the github site.
