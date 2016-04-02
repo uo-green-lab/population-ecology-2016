@@ -45,14 +45,14 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |------|------|-------|---------|----------|-----|
 |1      |4/1      |Introduction<br>Single species dynamics       |Course overview<br>Class photos<br>Density-independent growth         |Hastings<br>1<br>2.1          |     |
 |2      |4/8      |Single species dynamics       |Density-dependent growth<br>         |Hastings 4.1-4.4          |HW 1     |
-|3      |4/15      |Single species dynamics exam       |Exam<br>Solutions<br>Team teaching prep         |          |HW 2     |
-|4      |4/22      |Competition       |Stability and the community matrix<br>Lotka-Volterra models         |Hastings<br>6<br>7.1          |HW 3<br>(team wiki/teaching proposals)     |
-|5      |4/29      |Predator-prey interactions       |Lotka-Volterra models<br>Density dependence         |Hastings<br>8.1-8.4          |HW 4     |
-|6      |5/6      |Predator-prey interactions       |Functional response<br>Paradox of enrichment<br>Zombie outbreaks         |Hastings<br>8.5<br>8.6          |HW 5     |
-|7      |5/13      |Multi-species interactions exam       |Exam<br>Solutions         |          |HW 6     |
-|8      |5/20      |Applications       |Human ecology<br>Network ecology<br>Urban ecology<br>Team teaching prep         |          |Wiki drafts     |
-|9      |5/27      |Wiki-a-thon       |         |          |Mandatory     |
-|10      |6/3      |Team Teaching       |         |          |Mandatory     |
+|3      |4/15      |Competition       |Stability and the community matrix<br>Lotka-Volterra models         |Hastings<br>6<br>7.1          |HW 2     |
+|4      |4/22      |Single species dynamics exam       |Exam<br>Solutions<br>Wiki prep         |          |HW 3     |
+|5      |4/29      |Predator-prey interactions       |Lotka-Volterra models<br>Density dependence         |Hastings<br>8.1-8.4          |Team teaching/wiki proposals due     |
+|6      |5/6      |Predator-prey interactions       |Functional response<br>Paradox of enrichment<br>Zombie outbreaks         |Hastings<br>8.5<br>8.6          |HW 4     |
+|7      |5/13      |Applications       |Human ecology<br>Network ecology<br>Urban ecology<br>Team teaching prep         |          |HW 5     |
+|8      |5/20      |Multi-species interactions exam       |Exam<br>Solutions         |          |Wiki drafts     |
+|9      |5/27      |Wiki-a-thon and Team Teaching      |         |          |Mandatory     |
+|10      |6/3      |Wiki-a-thon and Team Teaching       |         |          |Mandatory     |
 
 ### Appendix
 Team Teaching.  Your team teaching project will comprise four steps as described below.
