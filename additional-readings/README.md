@@ -1,4 +1,4 @@
 # Population Ecology
 ## Spring 2016
 
-Placeholder
+Additional readings can be found in this directory!
