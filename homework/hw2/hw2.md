@@ -18,7 +18,7 @@ Single species dynamics
 
 	**(b)** Simulate this model two additional times for the same parameter set, but with `K` = 50 and `K` = 25. Plot the population level growth rate (hint: `?diff`) vs. population abundance for all three simulations (on the same plot). Include any code and figures.
 	
-	**(c)** Find the population abundance that yields the maximum population growth rate for each of the above three simulations. Visualize the effect of `K` on maximum population growth rate by plotting these values against their corresponding `K` parameters. Include any code and figures.
+	**(c)** Find the population abundance that yields the maximum population growth rate for each of the above three simulations. Visualize the effect of `K` on populations size that yields the maximum growth rate by plotting these values against their corresponding `K` parameter. Include any code and figures.
 
 3.	Suppose you manage a [fishery](https://en.wikipedia.org/wiki/Fishery) and are tasked with maximizing the fishery's yield by managing the populations of three fish species that grow according to the theta logistic growth model (see [Hastings Ch. 4](https://github.com/uo-green-lab/population-ecology-2016/blob/master/additional-readings/hasting-ch-4.pdf)). A scientist visited the fishery and determined the `theta` value for each fish:  `0.5 for species A`, `1 for species B` and `1.8 for species C`. Which species will be maintained at the highest population abundance in your fishery? Include any code and figures.
 
