@@ -21,4 +21,5 @@ Single species dynamics
 	**(c)** Find the population abundance that yields the maximum population growth rate for each of the above three simulations. Visualize the effect of `carrying capacity` on `population size at maximum growth rate` by plotting these values against their corresponding `K` parameter. Include any code and figures.
 
 3.	Suppose you manage a [fishery](https://en.wikipedia.org/wiki/Fishery) and are tasked with maximizing the fishery's yield by managing the populations of three fish species that grow according to the theta logistic growth model (see [Hastings Ch. 4](https://github.com/uo-green-lab/population-ecology-2016/blob/master/additional-readings/hasting-ch-4.pdf)). A scientist visited the fishery and determined the `theta` value for each fish:  `0.5 for species A`, `1 for species B` and `1.8 for species C`. Which species will be maintained at the highest population abundance in your fishery? Include any code and figures.
+4.	Extra credit.  In class we reviewed logistic population growth, starting with the model dN/dt = rN(1-N/K).  Go through the steps to derive the solution for this model at time t = T, or N(T).
 
