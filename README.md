@@ -48,7 +48,7 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |3      |4/15      |Single species dynamics       |Stability         |Hastings<br>6          |HW 2     |
 |4      |4/22      |Exam       |Exam<br>Solutions<br>Wiki prep         |          |         |
 |5      |4/29      |Competition       |Lotka-Volterra models        |Hastings<br>7.1          |HW 3     |
-|6      |5/6      |Predator-prey interactions       |Functional response        |Hastings<br>8.1<br>8.5          |HW 4     |
+|6      |5/6      |Predator-prey interactions       |Functional response        |Hastings<br>8.1-8.5          |HW 4     |
 |7      |5/13      |Applications       |Human ecology<br>Urban ecology<br>Team teaching prep         |          |HW 5     |
 |8      |5/20      |Exam       |Exam<br>Solutions         |          |Wiki drafts     |
 |9      |5/27      |Wiki-a-thon and Team Teaching      |         |          |Mandatory     |
