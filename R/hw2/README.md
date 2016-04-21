@@ -21,7 +21,7 @@ log.growth <- function(t, y, p) {
 
 ## specify parameter values and initial conditions
 p <- c('r' = 0.25, 'K' = 20, 'theta' = 1)
-y0 <- c('N' = 1)
+y0 <- c('N' = runif(1, min = 0.01, max = 0.1)
 t <- 1:100
 
 library(deSolve)
