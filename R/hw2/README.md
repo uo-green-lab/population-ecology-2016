@@ -1,7 +1,7 @@
 # Population Ecology
 ## Spring 2016
 
-> 2)  **(a)** Write a function to simulate continuous time logistic growth in `R`. Using the values `r` = 0.25 and `K` = 100, simulate and plot this model over the time range `t` = 0 to `t` = 100, using `runif()` to randomly draw the initial conditions 0.01 < `N0` < 0.1 from a uniform distribution. Include any code and figures.
+> 2)  **(a)** Write a function to simulate continuous time logistic growth in `R`. Using the values `r` = 0.25 and `K` = 100, simulate and plot this model over the time range `t` = 1 to `t` = 100, using `runif()` to randomly draw the initial conditions 0.01 < `N0` < 0.1 from a uniform distribution. Include any code and figures.
 
 > **(b)** Simulate this model two additional times for the same parameter set, but with `K` = 50 and `K` = 25. Plot the population level growth rate (hint: `?diff`) vs. population abundance for all three simulations (on the same plot). Include any code and figures.
 
