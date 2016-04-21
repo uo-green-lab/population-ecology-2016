@@ -45,8 +45,8 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |------|------|-------|---------|----------|-----|
 |1      |4/1      |Introduction<br>Single species dynamics       |Course overview<br>Class photos<br>Density-independent growth         |Hastings<br>1<br>2.1          |     |
 |2      |4/8      |Single species dynamics       |Density-dependent growth<br>         |Hastings 4.1-4.4          |HW 1     |
-|3      |4/15      |Single species dynamics       |Stability         |Hastings 6          |HW 2     |
-|4      |4/22      |Exam<br>Multiple species dynamics       |Exam<br>Solutions         |          |         |
+|3      |4/15      |Single species dynamics       |Stability         |        |HW 2     |
+|4      |4/22      |Exam<br>Multiple species dynamics       |Exam<br>Solutions         | Hastings 6           |         |
 |5      |4/29      |Competition       |Lotka-Volterra models        |Hastings 7.1          |HW 3     |
 |6      |5/6      |Predator-prey interactions       |Functional response        |Hastings 8.1-8.5          |HW 4     |
 |7      |5/13      |Applications       |Human ecology<br>Urban ecology<br>Team teaching prep         |          |HW 5     |
