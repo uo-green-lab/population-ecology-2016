@@ -126,8 +126,10 @@ points(deriv ~ N, data = sim.3, type = 'l', col = 'purple')
 
 ## plot abundance that yields max growth rate vs. theta
 max.Ns <- c(sim$N[which(sim$deriv == max(sim$deriv, na.rm = TRUE))],
-            sim$N[which(sim.2$deriv == max(sim.2$deriv, na.rm = TRUE))],
-            sim$N[which(sim.3$deriv == max(sim.3$deriv, na.rm = TRUE))])
+            sim.2$N[which(sim.2$deriv == max(sim.2$deriv, na.rm = TRUE))],
+            sim.3$N[which(sim.3$deriv == max(sim.3$deriv, na.rm = TRUE))])
+
+thetas <- c(p['theta'], p.2['theta'], p.3['theta']
 
 plot(max.Ns ~ thetas, pch = 21, bg = 'skyblue', type = 'b', lty = 2)
 ```
