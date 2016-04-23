@@ -1,4 +1,4 @@
 # Population Ecology
 ## Spring 2016
 
-Additional readings can be found in this directory!
+The Hastings text and additional readings can be found in this directory!
