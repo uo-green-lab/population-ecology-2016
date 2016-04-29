@@ -23,8 +23,7 @@ Define my parameter set.
 ## specify parameter values and initial conditions
 p <- c('r1' = 0.1, 'K1' = 1.05, 'r2' = 0.1, 'K2' = 0.8,
        'a12' = 0.5,
-       'a21' = 0.2,
-       'H' = 0.5)
+       'a21' = 0.2)
 y0 <- c('N1' = 0.3, 'N2' = 0.1)
 t <- 1:100
 ```
