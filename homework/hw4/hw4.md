@@ -18,6 +18,10 @@ Jellyfish & impacts of climate change to marine systems:  https://docs.google.co
 
 Finding the best growth models for a recent invasive bird in North America - the Eurasian collared-dove:  https://docs.google.com/document/d/1u6FrLRnYR7S6h8Jz8UQf2cd3fq-D-DzlrBmP40IEJYM/edit
 
+Amphibians and B. dendrobatidis:  https://docs.google.com/document/d/1N1GsRC1N1VOxvKqu_ViiDriuWQH6sSHeCadFQAshDMQ/edit
+
+
+
 
 
 
