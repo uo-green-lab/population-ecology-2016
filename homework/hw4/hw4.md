@@ -22,6 +22,10 @@ Amphibians and B. dendrobatidis:  https://docs.google.com/document/d/1N1GsRC1N1V
 
 Effect of Deer on Tree Populations: https://docs.google.com/document/d/1U8ovM2IDsZaNbIhzQlcykGAJaFB073zzRY3g4lSKnX4/edit
 
+Metapopulations and their role in Conservation:  https://docs.google.com/document/d/1mphAxllhvza-FprZNqA425ij3xdjEK_1rOAovJWRgkw/edit
+
+
+
 
 
 
