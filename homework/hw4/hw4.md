@@ -26,6 +26,9 @@ Metapopulations and their role in Conservation:  https://docs.google.com/documen
 
 Invasive species and the Emerald Ash Borer:  https://docs.google.com/document/d/1_O17qIcKORgBnMR9e0TWP22CQtPILDmgo5h56swLwF4/edit#heading=h.36h0cex7afj6
 
+Plant pollinator networks:  https://docs.google.com/document/d/1ytCgX316E1UQNMLyLLD5NwJLcqkl1ynfibFNNUUSVJc/edit?ts=5726dbd1
+
+
 
 
 
