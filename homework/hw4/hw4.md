@@ -12,3 +12,6 @@ Problems 4: competition
 
 Zika Virus a Growing Pandemic: https://docs.google.com/document/d/1v6uuELn4PAX_OH1WmoOmbi-bD_IhsY7sOoKBUqqk_BE/edit?usp=sharing
 
+Climate Engineering: Using Microbes to Control Greenhouse Gases in our Atmosphere:  https://docs.google.com/document/d/1YSXjSSXRiqh2o9vgEwTCOA9G6vdrIb-mxHA1d62so38/edit
+
+
