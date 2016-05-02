@@ -24,6 +24,10 @@ Effect of Deer on Tree Populations: https://docs.google.com/document/d/1U8ovM2ID
 
 Metapopulations and their role in Conservation:  https://docs.google.com/document/d/1mphAxllhvza-FprZNqA425ij3xdjEK_1rOAovJWRgkw/edit
 
+Invasive species and the Emerald Ash Borer:  https://docs.google.com/document/d/1_O17qIcKORgBnMR9e0TWP22CQtPILDmgo5h56swLwF4/edit#heading=h.36h0cex7afj6
+
+
+
 
 
 
