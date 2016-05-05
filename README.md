@@ -49,7 +49,7 @@ Below is a tentative schedule for this course.  It will be updated as the course
 |4      |4/22      |Exam     |Solutions<br>Multiple species dynamics         | Hastings 6           |         |
 |5      |4/29      |Competition       |Lotka-Volterra models        |Hastings 7.1          |HW 3     |
 |6      |5/6      |Predator-prey interactions       |Functional response        |Hastings 8.1-8.5          |HW 4     |
-|7      |5/13      |Applications       |Human ecology<br>Urban ecology<br>Team teaching prep         |          |HW 5     |
+|7      |5/13      |Applications       |Human ecology<br>Urban ecology<br>Wiki-a-thon prep         |          |HW 5     |
 |8      |5/20      |Exam       |Solutions         |          |Wiki drafts     |
 |9      |5/27      |Wiki-a-thon and Team Teaching      |         |          |Mandatory     |
 |10      |6/3      |Wiki-a-thon and Team Teaching       |         |          |Mandatory     |
