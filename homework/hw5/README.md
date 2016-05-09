@@ -3,8 +3,8 @@
 ```r
 library(deSolve)
 
-## write a function for competition
-comp <- function(t, y, p) {
+## write a function for pred-prey interaction
+pred.prey <- function(t, y, p) {
   H <- y[1]
   P <- y[2]
   with(as.list(p), {
@@ -23,7 +23,7 @@ y0 <- c('H' = .4, 'P' = .4)
 t <- 1:1000
 
 ## simulations
-sim <- ode(y = y0, times = t, func = comp, parms = p, method = 'lsoda')
+sim <- ode(y = y0, times = t, func = pred.prey, parms = p, method = 'lsoda')
 sim <- as.data.frame(sim)
 
 ## plot time series
